@@ -1,0 +1,19 @@
+
+.metroboom{
+    color: rgb(4, 99, 99);
+}
+#bebo{
+    border: 1px solid;
+    border-radius: 50px;
+    background-color: rgb(4, 99, 99);
+    padding: 15px;
+    color: azure;
+}
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+.laba{
+    margin: 10px;
+}

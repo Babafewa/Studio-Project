@@ -1,0 +1,43 @@
+
+.navaben{
+    position: absolute;
+    background: none;
+    z-index: 999;
+}
+.my-carousel{
+    position: absolute;
+    top: 0;
+}
+#bebo{
+    border: 1px solid;
+    border-radius: 50px;
+    background-color: rgb(4, 99, 99);
+    padding: 15px;
+    color: azure;
+}
+.metro{
+    color: rgb(4, 99, 99);
+}
+/* a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+} */
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+/* a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+} */
+.laba{
+    margin: 10px;
+}

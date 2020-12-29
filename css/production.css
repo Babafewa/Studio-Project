@@ -1,0 +1,23 @@
+
+.metro{
+    color: rgb(4, 99, 99);
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.laba{
+    margin: 10px;
+}
